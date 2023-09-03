@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "IoTControl",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authvdpsreactapp4a602f55",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

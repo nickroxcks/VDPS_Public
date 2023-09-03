@@ -1,0 +1,7 @@
+type IoThing @model {
+  id: ID!
+  name: String!
+  recordingState: String!
+  macAddress: String!
+  description: String
+}
