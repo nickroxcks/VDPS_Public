@@ -24,5 +24,5 @@ setup, and user friendly interface. One of the major goals of VDPS is to be as e
 user as possible, while retaining as much insight as possible from the collected data. Furthermore,
 accuracy is of the utmost importance to VDPS, which is achieved via the GCC-PHAT Algorithm.
 
-![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/902ab8c6-88a7-45fe-920c-1540b0c558aa)
+![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710)
 
