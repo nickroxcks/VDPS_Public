@@ -1,5 +1,5 @@
 # Voice Direction Processing System (VDPS)
-The Voice Direction Processing System is an IOT system consisting of Raspberry Pi hardware units and a full stack web application, 
+The Voice Direction Processing System is an IOT system consisting of Raspberry Pi hardware units and a full stack React/AWS web application, 
 capable of detecting and displaying sound direction up to 4 meters away with 95% accuracy.
 
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710) 
