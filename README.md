@@ -5,7 +5,7 @@ capable of detecting and displaying sound direction up to 4 meters away with 95%
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710) 
 
 Features included a live compass on the web application displaying real time sound direction around hardware units from any smartphone or computer, 
-reviewing and saving recordings, user registration, sound wave analysis, and much more. (see design docuement for more).
+reviewing and saving recordings, user registration, sound wave analysis, and much more. (see design document VDPS_DesignDocument.docx.pdf for more).
 
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/56c021ef-cfc8-4594-ba9e-a335c9badb76)
 
