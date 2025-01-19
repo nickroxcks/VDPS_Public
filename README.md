@@ -7,7 +7,7 @@ capable of detecting and displaying sound direction up to 4 meters away with 95%
 Features included a live compass on the web application displaying real time sound direction around hardware units from any smartphone or computer, 
 reviewing and saving recordings, user registration, sound wave analysis, and much more. 
 
-For the full design and technical specifications, please review design document VDPS_DesignDocument.docx.pdf for more
+For the full design and technical specifications, please review design document VDPS_DesignDocument.docx.pdf for more.
 
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/56c021ef-cfc8-4594-ba9e-a335c9badb76)
 
@@ -25,13 +25,7 @@ and processing center, and purely software backend designed to store recordings 
 data visualization. The frontend unit is composed of the Raspberry Pi and the Respeaker, and connects to
 a hosted web application.
 
-
-![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/56c021ef-cfc8-4594-ba9e-a335c9badb76)
-
 This solution offers superior scalability and is advantageous for the end user as it provides a simple
 setup, and user friendly interface. One of the major goals of VDPS is to be as elegant and simple to the
 user as possible, while retaining as much insight as possible from the collected data. Furthermore,
 accuracy is of the utmost importance to VDPS, which is achieved via the GCC-PHAT Algorithm.
-
-![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710)
-
