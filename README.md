@@ -3,6 +3,7 @@ The Voice Direction Processing System is an IOT system consisting of Raspberry P
 capable of detecting and displaying sound direction up to 4 meters away with 95% accuracy.
 
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710) 
+
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/56c021ef-cfc8-4594-ba9e-a335c9badb76)
 
 The VDPS was a solution devloped for Univeristy of Alberta Client Dr Steven Knudsen to create a system capable of detecting voices within a 4x4 m2
