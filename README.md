@@ -1,10 +1,12 @@
-# VDPS
-The Voice Direction Processing System was a response to a proposal by Dr Steven Knudsen to create a
-system capable of detecting voices within a 4x4 m
-2 enclosed room [3]. This system was required to be
-based on the Raspberry Pi microcomputer system, detect and localize sound, and provide this to the user
-via an API and web application. This type of system is useful for home automation companies, and can
-be used to enhance speaker intelligibility, in addition to assisting in other IoT related roles.
+# Voice Direction Processing System (VDPS)
+The Voice Direction Processing System is an IOT system consisting of Raspberry Pi hardware units and a full stack web application, 
+capable of detecting and displaying sound direction up to 4 meters away with 95% accuracy.
+
+![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710)
+
+The VDPS was a solution devloped for Univeristy of Alberta Client Dr Steven Knudsen to create a system capable of detecting voices within a 4x4 m2
+enclosed room [3]. This client requirements were to be based on the Raspberry Pi microcomputer system, detect and localize sound, and provide analystics to the user
+via an API and web application. This type of system is useful for home automation companies, and can be used to enhance speaker intelligibility, in addition to assisting in other IoT related roles.
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710)
 
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/fa61689a-4859-4a08-8dc0-c372291e082a)
