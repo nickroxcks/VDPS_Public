@@ -5,7 +5,7 @@ system capable of detecting voices within a 4x4 m
 based on the Raspberry Pi microcomputer system, detect and localize sound, and provide this to the user
 via an API and web application. This type of system is useful for home automation companies, and can
 be used to enhance speaker intelligibility, in addition to assisting in other IoT related roles.
-![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710
+![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/9ea3d0eb-b36e-4be2-b449-81619db42710)
 
 ![image](https://github.com/nickroxcks/VDPS_Public/assets/34073804/fa61689a-4859-4a08-8dc0-c372291e082a)
 
